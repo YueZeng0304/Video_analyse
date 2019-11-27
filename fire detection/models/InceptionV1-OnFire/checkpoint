@@ -1,0 +1,2 @@
+model_checkpoint_path: "inceptiononv1onfire"
+all_model_checkpoint_paths: "inceptiononv1onfire"

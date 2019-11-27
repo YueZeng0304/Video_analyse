@@ -1,0 +1,2 @@
+model_checkpoint_path: "sp-inceptionv1onfire"
+all_model_checkpoint_paths: "sp-inceptionv1onfire"
