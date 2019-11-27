@@ -1,5 +1,5 @@
-# Fall-detection（摔倒/跌倒检测）
-Fall-detection（摔倒/跌倒检测）in the room
+# Fall-detection
+Fall-detection in the room
 
  this fall-detection is based on [darknet](https://pjreddie.com/darknet/yolo/).
 
@@ -34,12 +34,10 @@ cd Fall-detection
 sudo make
 ```
 
-If you are having trouble with installation, you can Issue me!
 
 ### run the demo
 
-  First, download [yolo.weights](https://pan.baidu.com/s/1eTqopgQ), the password is： bp6c.
-  Then, install this module :
+  Install this module :
 
   ```bash
   python gq.py
@@ -49,5 +47,3 @@ If you are having trouble with installation, you can Issue me!
 ## Thanks
 
 * Many, many thanks to [pjreddie](https://pjreddie.com/darknet/yolo/) for his Great work!
-  
-### p.s. If libdarknet.so Error happened, you can alter the relative path for libdarknet.so in python/darknet.py to absolute path, if you have any questions,you can open an issue!
